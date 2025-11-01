@@ -1,0 +1,8 @@
+{
+  "timestamp": "2025-11-01T12:00:00Z",
+  "hr": 72,
+  "spO2": 98,
+  "device_id": "mock-esp32-001",
+  "temperature": 36.6,
+  "hrv": 45
+}

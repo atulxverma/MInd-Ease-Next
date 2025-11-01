@@ -1,0 +1,30 @@
+[
+  {
+    "trigger": "hello",
+    "response": "Hello! I'm here to support you. How are you feeling today?"
+  },
+  {
+    "trigger": "sad",
+    "response": "I'm sorry you're feeling sad. It's okay to feel this way. Would you like to talk about what's troubling you?"
+  },
+  {
+    "trigger": "anxious",
+    "response": "I understand that anxiety can be overwhelming. Let's take a moment together. Try taking a slow, deep breath. I'm here with you."
+  },
+  {
+    "trigger": "stressed",
+    "response": "Stress can be really challenging. Remember, it's okay to take breaks and prioritize your wellbeing. What's been weighing on your mind?"
+  },
+  {
+    "trigger": "happy",
+    "response": "That's wonderful to hear! I'm glad you're feeling good. What's bringing you joy today?"
+  },
+  {
+    "trigger": "help",
+    "response": "I'm here to help. You can talk to me about how you're feeling, and I'll do my best to provide support. If you need professional help, please reach out to a counselor or call a helpline."
+  },
+  {
+    "trigger": "default",
+    "response": "Thank you for sharing that with me. I'm here to listen and support you. Would you like to tell me more about how you're feeling?"
+  }
+]
